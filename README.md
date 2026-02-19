@@ -38,10 +38,10 @@ Specifically, this analysis aims to assist management in:
 
 This analysis reveals key insights about the business:
 
-1. **Chat drives growth** — 60% of profit growth came from Chat, primarily through user acquisition (20x growth), not increased engagement
-2. **Critical churn point** — 40-60% of users never return after their first session across all service types
-3. **SEO brings quality, Affiliate brings scale** — SEO users generate 2x higher LTV but with greater variance
-4. **Supply concentration risk** — 35% of psychologists generate 80% of monthly profit
+1. **Chat drives growth** - 60% of profit growth came from Chat, primarily through user acquisition (20x growth), not increased engagement
+2. **Critical churn point** - 40-60% of users never return after their first session across all service types
+3. **SEO brings quality, Affiliate brings scale** - SEO users generate 2x higher LTV but with greater variance
+4. **Supply concentration risk** - 35% of psychologists generate 80% of monthly profit
 
 ---
 
@@ -55,9 +55,9 @@ This analysis reveals key insights about the business:
 Monthly profit trend from 2020-2024 across three service types: Call, Chat, and Video-Call.
 
 **Trend over time:**
-From 2020 through early 2021, both Chat and Call grew rapidly, reaching similar profit levels of ~$40K–$50K/month. Starting mid-2021, Chat continued to scale consistently, while Call growth slowed and began stabilizing. By mid-2022, Chat had clearly separated, reaching ~$130K–$150K/month, while Call fluctuated within a narrower range of ~$90K–$130K/month without sustained upward momentum.
+From 2020 through early 2021, both Chat and Call grew rapidly, reaching similar profit levels of ~$40K-$50K/month. Starting mid-2021, Chat continued to scale consistently, while Call growth slowed and began stabilizing. By mid-2022, Chat had clearly separated, reaching ~$130K-$150K/month, while Call fluctuated within a narrower range of ~$90K-$130K/month without sustained upward momentum.
 
-Between 2023 and 2024, Chat maintained strong growth and reached its peak near ~$200K/month, becoming the dominant profit contributor. In contrast, Call remained stable with moderate fluctuations but showed no structural growth beyond its earlier peak. Video-Call showed gradual improvement over time, increasing from near zero in 2020 to ~$10K–$15K/month by 2024, but its contribution remained small relative to Chat and Call.
+Between 2023 and 2024, Chat maintained strong growth and reached its peak near ~$200K/month, becoming the dominant profit contributor. In contrast, Call remained stable with moderate fluctuations but showed no structural growth beyond its earlier peak. Video-Call showed gradual improvement over time, increasing from near zero in 2020 to ~$10K-$15K/month by 2024, but its contribution remained small relative to Chat and Call.
 
 **Insight:** Chat became the primary driver of profit growth due to sustained expansion over multiple years, while Call transitioned into a mature, stable revenue source without continued scaling. Video-Call shows early positive momentum but has not yet reached meaningful profit scale.
 
@@ -73,10 +73,10 @@ Between 2023 and 2024, Chat maintained strong growth and reached its peak near ~
 Two-panel analysis showing Active Users (top) and Usage per User (bottom) by service type from 2020-2024.
 
 **Upper panel (Active Users):**
-Chat's growth was driven primarily by a sharp increase in active users, expanding from ~150 users in 2020 to over 2,000 at peak in 2024 (>10x growth). In contrast, Call users grew modestly early on and then plateaued around ~600–800 users, while Video-Call remained a small but gradually growing segment.
+Chat's growth was driven primarily by a sharp increase in active users, expanding from ~150 users in 2020 to over 2,000 at peak in 2024 (>10x growth). In contrast, Call users grew modestly early on and then plateaued around ~600-800 users, while Video-Call remained a small but gradually growing segment.
 
 **Lower panel (Usage per User):**
-Engagement per user did not increase alongside Chat's user growth. Chat usage per user rose initially from ~40 to ~120 sessions per user by 2022, but then stabilized and slightly declined through 2023-2024 despite continued user acquisition. Meanwhile, Call consistently maintained the highest engagement per user (~100–150), and Video-Call showed steady improvement over time, increasing from ~10 to ~80+ usage per user, indicating strengthening engagement among a smaller but increasingly committed user base.
+Engagement per user did not increase alongside Chat's user growth. Chat usage per user rose initially from ~40 to ~120 sessions per user by 2022, but then stabilized and slightly declined through 2023-2024 despite continued user acquisition. Meanwhile, Call consistently maintained the highest engagement per user (~100-150), and Video-Call showed steady improvement over time, increasing from ~10 to ~80+ usage per user, indicating strengthening engagement among a smaller but increasingly committed user base.
 
 **Insight:** Chat's profit growth was driven primarily by scaling acquisition volume rather than improving engagement depth, whereas Call and Video-Call demonstrate stronger per-user engagement, suggesting deeper therapy continuity and higher relationship intensity per client.
 
@@ -92,10 +92,10 @@ Engagement per user did not increase alongside Chat's user growth. Chat usage pe
 Two-panel analysis: Left panel shows churn distribution by session number. Right panel shows retention curves for each service type.
 
 **Left panel (Churn Distribution):**
-The highest churn occurs during the first session, with ~24–38% of users leaving immediately depending on the service. The second session represents the next largest drop-off, contributing an additional ~20–30% churn. After session 2, churn rates decline sharply, with each additional session contributing progressively smaller losses.
+The highest churn occurs during the first session, with ~24-38% of users leaving immediately depending on the service. The second session represents the next largest drop-off, contributing an additional ~20-30% churn. After session 2, churn rates decline sharply, with each additional session contributing progressively smaller losses.
 
 **Right panel (Retention Curves):**
-Cumulative churn reaches ~50–60% by session 2, after which retention stabilizes. Call maintains the strongest long-term retention, with ~15–18% of users still active after 20 sessions, while Chat stabilizes around ~10–12%, and Video-Call declines further to ~7–8%.
+Cumulative churn reaches ~50-60% by session 2, after which retention stabilizes. Call maintains the strongest long-term retention, with ~15-18% of users still active after 20 sessions, while Chat stabilizes around ~10-12%, and Video-Call declines further to ~7-8%.
 
 **Insight:** The first two sessions determine the majority of retention outcomes. Users who continue beyond session 2 are significantly more likely to remain long-term clients, particularly in Call services.
 
@@ -130,12 +130,12 @@ The distribution shows that 82% of psychologists generate less than $500/month, 
 Combined view of LTV accumulation curves (left) and metrics table (right) for cohorts from April 2024 to September 2024, segmented by acquisition source.
 
 **LTV Curves (Left):**
-SEO and Media cohorts generate significantly higher long-term LTV compared to Affiliate. Early cohorts (Apr-Jun 2024) demonstrate the strongest performance, with SEO cohorts reaching ~$170–$185 LTV within 4–5 months and Media cohorts reaching ~$140–$150. In contrast, Affiliate cohorts grow more slowly and plateau earlier, typically reaching only ~$60–$110 LTV.
+SEO and Media cohorts generate significantly higher long-term LTV compared to Affiliate. Early cohorts (Apr-Jun 2024) demonstrate the strongest performance, with SEO cohorts reaching ~$170-$185 LTV within 4-5 months and Media cohorts reaching ~$140-$150. In contrast, Affiliate cohorts grow more slowly and plateau earlier, typically reaching only ~$60-$110 LTV.
 
 **Cohort Metrics (Right):**
-Higher LTV cohorts are associated with higher engagement levels. For example, the May 2024 SEO cohort achieved the highest LTV ($183) alongside the highest sessions per user (45.9), while Affiliate cohorts show consistently lower LTV ($40–$114) and lower session counts (10–23).
+Higher LTV cohorts are associated with higher engagement levels. For example, the May 2024 SEO cohort achieved the highest LTV ($183) alongside the highest sessions per user (45.9), while Affiliate cohorts show consistently lower LTV ($40-$114) and lower session counts (10-23).
 
-**Insight:** SEO and Media channels acquire users who engage more deeply and generate higher long-term value, while Affiliate provides more stable but lower-value users. LTV growth is strongly correlated with session depth, indicating that user engagement quality—not just acquisition volume—drives long-term revenue.
+**Insight:** SEO and Media channels acquire users who engage more deeply and generate higher long-term value, while Affiliate provides more stable but lower-value users. LTV growth is strongly correlated with session depth, indicating that user engagement quality-not just acquisition volume-drives long-term revenue.
 
 ---
 
@@ -143,7 +143,7 @@ Higher LTV cohorts are associated with higher engagement levels. For example, th
 
 ### 1. Fix the First-Session Experience (Highest Impact)
 
-**Why:** 40–60% of users churn after session 1 — this is the largest revenue leakage point.
+**Why:** 40-60% of users churn after session 1 - this is the largest revenue leakage point.
 
 **Product**
 - Improve therapist-client matching accuracy (preferences, specialization, urgency)
@@ -161,7 +161,7 @@ Higher LTV cohorts are associated with higher engagement levels. For example, th
 **Why:** Call and Video-Call users show higher engagement and long-term value.
 
 **Product**
-- Recommend Call/Video-Call after 2–3 Chat sessions
+- Recommend Call/Video-Call after 2-3 Chat sessions
 - Add therapist recommendation prompts: "This conversation may benefit from a live session"
 
 **Marketing / Lifecycle**
@@ -171,7 +171,7 @@ Higher LTV cohorts are associated with higher engagement levels. For example, th
 
 ### 3. Retain and Scale Top-Performing Psychologists (Maximize Profit per Provider)
 
-**Why:** 35% of psychologists generate 80% of total profit — revenue is highly concentrated among a small group.
+**Why:** 35% of psychologists generate 80% of total profit - revenue is highly concentrated among a small group.
 
 **Product / Provider Experience**
 - Identify characteristics of top-performing psychologists (specialization, response time, session frequency) and replicate through hiring and training
