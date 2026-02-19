@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="images/logo.png" alt="Let's Talk Online - Psychology Service" width="500">
-</p>
-
-# Online Psychological Health Service Analysis
+# Let's Talk Online — Psychology Service Analysis
 
 A comprehensive data analysis of a subscription-based digital psychological health service, examining growth patterns, user retention, channel performance, and supply-side economics.
 
@@ -200,7 +196,6 @@ Higher LTV cohorts are associated with higher engagement levels. For example, th
 ```
 ├── README.md                    # This file
 └── images/                      # All visualization outputs
-    ├── logo.png
     ├── monthly_profit_by_service_type.png
     ├── users_vs_usage_story.png
     ├── churn_analysis.png
